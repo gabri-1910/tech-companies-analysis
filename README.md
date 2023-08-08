@@ -1,4 +1,4 @@
-# tech-companies-analysis
+# Tech-Companies-Analysis
 A machine learning project to analyze the price and volume variation in selected Brazilian tech companies in the stock market
 
 The project aims to analyze the following companies: Intelbras, Enjoei and Positivo, and compare them to the global variation regarding the Ibovespa index, the index related to the main stock exchange company in Brazil, the B3.
